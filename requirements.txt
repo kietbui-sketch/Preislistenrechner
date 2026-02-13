@@ -5,3 +5,4 @@ matplotlib
 XlsxWriter
 pyarrow
 requests
+chardet
